@@ -1,0 +1,5 @@
+[autorun]
+icon=icon.ico
+label=Name of CD or USB drive
+open=setup.exe
+;action=Open Program
